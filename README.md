@@ -1,10 +1,11 @@
-<!-- README.md - Profile for cdouradom -->
-<!-- Language: English (simple, clear, warm) -->
-
-<h1 align="center">🌸 Cintia Marques Dourado</h1>
+<!-- Banner ou imagem de capa -->
 <p align="center">
-  💻 QA & Java Fullstack Developer — Building resilient and beautiful experiences
+  <img src="./Assets/Gemini_Generated_Image_mt40humt40humt40.png" alt="Banner Cintia Marques Dourado" width="1200px">
 </p>
+
+<h1 align="center">🌸 Hi, I'm Cintia Marques Dourado</h1>
+
+<h3 align="center">💻 QA & Java Fullstack Developer | Building resilient and beautiful experiences ✨</h3>
 
 ---
 
@@ -29,6 +30,14 @@ I combine quality, development and care to build products that help people.
 - 🧪 Manual & Automated Testing (UI / API)  
 - 📊 Data analysis basics and process improvement  
 - 🔁 Integrations: Magento, Acumatica, HubSpot (experience with syncs and flows)
+
+| Area | Tools & Technologies |
+|------|-----------------------|
+| **Languages** | Java ☕ • HTML5 🌿 • CSS3 💅 • JavaScript ✨ |
+| **Testing** | Cypress 🧪 • Insomnia|Postman 💌 • JUnit 🧱 |
+| **Versioning & CI/CD** | Git • GitHub • GitHub Actions ⚙️ |
+| **Database** | MySQL 🍃 |
+| **Others** | Agile • QA Strategy • REST API Testing |
 
 ---
 
@@ -59,6 +68,12 @@ I combine quality, development and care to build products that help people.
 
 ---
 
+### ☕ My Philosophy
+> “Keep learning.  
+> Keep growing.  
+> Build with love and resilience.” 🌸
+
+---
 <footer align="center">
   Made with ♡ by Cintia Marques Dourado — © 2025
 </footer>
