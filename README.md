@@ -34,7 +34,7 @@ I combine quality, development and care to build products that help people.
 | Area | Tools & Technologies |
 |------|-----------------------|
 | **Languages** | Java ☕ • HTML5 🌿 • CSS3 💅 • JavaScript ✨ |
-| **Testing** | Cypress 🧪 • Insomnia|Postman 💌 • JUnit 🧱 |
+| **Testing** | Cypress 🧪 • Insomnia & Postman 💌 • JUnit 🧱 |
 | **Versioning & CI/CD** | Git • GitHub • GitHub Actions ⚙️ |
 | **Database** | MySQL 🍃 |
 | **Others** | Agile • QA Strategy • REST API Testing |
