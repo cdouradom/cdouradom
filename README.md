@@ -8,16 +8,18 @@
 
 ---
 
-## 🏠 Home
+## 💫 Welcone
 Hello! I create reliable and elegant digital experiences.  
 I combine quality, development and care to build products that help people.
 
 ---
 
 ## ✨ About Me
-I am curious, resilient and love to learn and share knowledge.  
-I work with Software Quality and I am studying Java Fullstack to grow in tech.  
-I believe in simple, human and well-tested solutions.
+- 🌸 I live in **Americana/SP**, Brazil  
+- 🧠 I am curious, resilient and love to learn and share knowledge.  
+- 💼 I work with Software Quality and I am studying Java Fullstack to grow in tech.  
+- 💬 I believe in simple, human and well-tested solutions.
+- 🧘‍♀️ In my free time: **yoga, gardens, music, reading  and travel**
 
 ---
 
@@ -27,6 +29,15 @@ I believe in simple, human and well-tested solutions.
 - 🧪 Manual & Automated Testing (UI / API)  
 - 📊 Data analysis basics and process improvement  
 - 🔁 Integrations: Magento, Acumatica, HubSpot (experience with syncs and flows)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdouradom&show_icons=true&theme=calm" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdouradom&layout=compact&theme=calm" />
+</p>
 
 ---
 
