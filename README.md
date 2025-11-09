@@ -62,7 +62,7 @@ I combine quality, development and care to build products that help people.
 ---
 
 ## 📬 Contact
-- GitHub: [github.com/cdouradom](https://github.com/cdouradom/) 
+- Portfolio: [https://github.com/cdouradom/](https://cdouradom.github.io/PORTFOLIO)) 
 - LinkedIn: [linkedin/cintiadourado](https://www.linkedin.com/in/cintia-douradom)
 - Email: cdouradom@gmail.com
 
