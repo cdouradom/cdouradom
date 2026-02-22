@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Assets/Gemini_Generated_Image_mt40humt40humt40.png" 
+  <img src="./Assets/banner.png" 
        alt="Cintia Marques Dourado Banner" 
        width="1200px" />
 </p>
@@ -42,6 +42,12 @@ Meu objetivo é simples:
 ---
 
 ## 🧠 Competências Principais
+<!-- Banner -->
+<p align="center">
+  <img src="./Assets/Gemini_Generated_Image_mt40humt40humt40.png" 
+       alt="Cintia Marques Dourado Banner" 
+       width="1200px" />
+</p>
 
 ### 🔎 Qualidade & Governança
 - Estratégia de Testes baseada em risco  
