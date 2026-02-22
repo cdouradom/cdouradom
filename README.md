@@ -1,80 +1,88 @@
-<!-- Banner ou imagem de capa -->
+<!-- Banner -->
 <p align="center">
-  <img src="./Assets/Gemini_Generated_Image_mt40humt40humt40.png" alt="Banner Cintia Marques Dourado" width="1200px">
+  <img src="./Assets/Gemini_Generated_Image_mt40humt40humt40.png" 
+       alt="Cintia Marques Dourado Banner" 
+       width="1200px" />
 </p>
 
-<h1 align="center">🌸 Hi, I'm Cintia Marques Dourado</h1>
-
-<h3 align="center">🎯 Quality Manager & Scrum Master | Qualidade, processos e agilidade que entregam valor ✨</h3>
-
----
-
-## 💫 Welcome
-Olá! Conecto **gestão de qualidade** e **agilidade** para times e produtos mais resilientes.  
-Atuo na intersecção entre garantir padrões, melhorar processos e facilitar entregas em ritmo sustentável — com foco em pessoas, métricas e valor.
+<h1 align="center">Cintia Marques Dourado</h1>
+<h3 align="center">
+Estratégia de Qualidade & Governança de Delivery 🚀
+</h3>
 
 ---
 
-## ✨ About Me
-- 🌸 Moro em **Americana/SP**, Brasil  
-- 🧠 Curiosa, resiliente e apaixonada por aprender e compartilhar conhecimento  
-- 💼 Perfil estratégico: **Quality Manager** (processos, métricas, melhoria contínua) + **Scrum Master** (facilitação, time, fluxo de entrega)  
-- 💬 Acredito em soluções simples, humanas e bem testadas — e em times que evoluem juntos  
-- 🧘‍♀️ No tempo livre: **yoga, jardins, música, leitura e viagens**
+## 👋 Sobre mim
+
+Atuo na interseção entre **qualidade, estratégia e entrega**.
+
+Meu foco não é apenas testar software.  
+É estruturar o fluxo, reduzir riscos e aumentar a previsibilidade das entregas.
+
+Tenho experiência com produtos digitais B2B e B2C, e-commerce e integrações complexas (ERP, CRM e pagamentos). Trabalho em ambientes ágeis (Scrum e Kanban), apoiando times e negócio a entregarem com clareza e segurança.
 
 ---
 
-## 🌿 Skills
+## 🎯 O que eu realmente faço
 
-| Eixo | Competências |
-|------|----------------|
-| **Qualidade** | Estratégia de QA • Testes manuais e automatizados (UI/API) • Análise de dados e melhoria de processos • Padrões e métricas de qualidade |
-| **Agilidade** | Scrum • Facilitação de cerimônias • Suporte ao time e remoção de impedimentos • Foco em entrega de valor |
-| **Técnico** | Automação de testes (Cypress, JUnit) • Java Fullstack (em evolução) • Integrações (Magento, Acumatica, HubSpot) |
+Mesmo com o cargo formal de Quality Manager, no dia a dia atuo também em frentes de:
 
-| Área | Ferramentas e tecnologias |
-|------|---------------------------|
-| **Linguagens** | Java ☕ • HTML5 • CSS3 • JavaScript ✨ |
-| **Testes** | Cypress 🧪 • Insomnia & Postman 💌 • JUnit 🧱 |
-| **Versionamento e CI/CD** | Git • GitHub • GitHub Actions ⚙️ |
-| **Banco de dados** | MySQL 🍃 |
-| **Outros** | Agile • Estratégia de QA • Testes de API REST |
+- Apoio ao Planning e Refinamento  
+- Estruturação de histórias e critérios de aceite  
+- Análise de risco antes de releases  
+- Validação ponta a ponta (end-to-end)  
+- Organização e clareza de backlog  
+- Monitoramento de métricas como Lead Time e Cycle Time  
+- Priorização baseada em impacto e valor  
+- Ponte entre Engenharia, Produto e Stakeholders  
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdouradom&show_icons=true&theme=calm" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdouradom&layout=compact&theme=calm" />
-</p>
+Meu objetivo é simples:  
+**Entregar o que realmente importa, com previsibilidade e confiança.**
 
 ---
 
-## 🌸 Featured Projects
-> Imagens: em construção...
+## 🧠 Competências Principais
 
-### Checkout Flow
-- Em construção...
+### 🔎 Qualidade & Governança
+- Estratégia de Testes baseada em risco  
+- Definição de critérios de aceite  
+- Validação de integrações (ERP, CRM, Pagamentos)  
+- Governança de releases  
+- Visibilidade executiva e acompanhamento de entregas  
 
-### Automation POC
-- Em construção...
+### 🔄 Agilidade & Fluxo
+- Scrum & Kanban  
+- Facilitação e apoio às cerimônias  
+- Identificação de impedimentos  
+- Organização de backlog  
+- Melhoria contínua orientada por métricas  
+
+### 💻 Base Técnica
+- Java (base Full Stack)  
+- Validação de APIs (Postman, Insomnia)  
+- Automação de testes (Cypress, JUnit)  
+- Magento (Adobe Commerce)  
+- Git e ambientes CI/CD  
+- MySQL  
 
 ---
 
-## 📬 Contact
-- Portfolio: [cdouradom.github.io/PORTFOLIO](https://cdouradom.github.io/PORTFOLIO)  
-- LinkedIn: [linkedin.com/in/cintia-douradom](https://www.linkedin.com/in/cintia-douradom)  
-- Email: cdouradom@gmail.com
+## 📌 Foco Atual
+
+- Evoluir práticas de governança de delivery  
+- Fortalecer estratégia de automação  
+- Aplicar IA como apoio à qualidade  
+- Crescer em direção à liderança estratégica de entrega  
 
 ---
 
-### ☕ My Philosophy
-> “Keep learning.  
-> Keep growing.  
-> Build with love and resilience.” 🌸
+## 📬 Contato
+
+Portfolio: https://cdouradom.github.io/PORTFOLIO  
+LinkedIn: https://www.linkedin.com/in/cintia-douradom  
+Email: cdouradom@gmail.com  
 
 ---
-<footer align="center">
-  Made with ♡ by Cintia Marques Dourado — © 2025
-</footer>
+
+> Qualidade não é controle.  
+> É clareza, alinhamento e entrega previsível.
